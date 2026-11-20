@@ -1,0 +1,3 @@
+Domain,Actual_BI,Predicted_BI,Top_Drivers
+Hard_Rock_Domain,37.73,42.06,"['136.70 < dip_direction_deg <= 171.20: +5.13', 'spacing_mode_mm > 61.00: +1.86', '49.10 < dip_deg <= 71.30: +0.88', '2.50 < density_t_m3 <= 2.52: +0.24', 'face_azimuth_deg <= 311.50: -0.15']"
+Medium_Rock_Domain,32.73,33.14,"['dip_direction_deg > 328.40: -5.65', 'spacing_mode_mm <= 26.60: -1.28', '71.30 < dip_deg <= 82.50: +0.28', 'face_azimuth_deg <= 311.50: -0.25', '2.50 < density_t_m3 <= 2.52: +0.14']"

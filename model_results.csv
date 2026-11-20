@@ -1,0 +1,4 @@
+Model,R2,RMSE,MAE,Cat_Acc
+Mean Baseline,-0.0102,4.5383,3.5889,0.7485
+Linear Regression (Full),0.5546,3.0136,2.4477,0.7239
+RF Full (all predictors),0.8692,1.6331,1.0623,0.9387

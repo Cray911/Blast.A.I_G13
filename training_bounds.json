@@ -1,0 +1,42 @@
+{
+  "northing": {
+    "min": -10.7,
+    "max": 2403.7,
+    "median": 1233.1
+  },
+  "face_azimuth_deg": {
+    "min": 0.1,
+    "max": 359.7,
+    "median": 327.5
+  },
+  "dip_deg": {
+    "min": 1.7,
+    "max": 90.0,
+    "median": 71.3
+  },
+  "dip_direction_deg": {
+    "min": 0.7,
+    "max": 358.9,
+    "median": 171.2
+  },
+  "spacing_mode_mm": {
+    "min": 7.9,
+    "max": 258.7,
+    "median": 40.0
+  },
+  "persistence_m": {
+    "min": 0.48,
+    "max": 16.97,
+    "median": 3.05
+  },
+  "density_t_m3": {
+    "min": 2.441,
+    "max": 2.583,
+    "median": 2.502
+  },
+  "rotation_pressure_bar": {
+    "min": 28.6,
+    "max": 65.3,
+    "median": 44.8
+  }
+}

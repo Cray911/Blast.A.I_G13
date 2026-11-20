@@ -1,0 +1,7 @@
+Model,Inputs,R2,RMSE,MAE,Category_Agreement_%
+Baseline: Mean Predictor,0,-0.0102,4.5383,3.5889,74.85
+Baseline: Linear Regression (Full),26,0.5546,3.0136,2.4477,72.39
+Baseline: Linear Regression (PSO-GA),8,0.5582,3.0013,2.419,72.39
+RF: Full Model,26,0.8692,1.6331,1.0623,93.87
+RF: PSO-GA Selected,8,0.8862,1.5231,0.9489,95.09
+RF: FRFS Selected,23,0.8748,1.5975,0.9937,93.25
